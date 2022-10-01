@@ -1,0 +1,4 @@
+This website basically takes any ingredient as an input and then gives the list of possible recipe with it as an output.
+For frontend React Js was used
+For backend Node Js was used
+The recipe that the website displays are fetched from an external API.
